@@ -1,6 +1,6 @@
 ## Crime Data Analysis - Los Angeles, CA
 
-[Application Link](https://share.streamlit.io/gagapito/crimedata_project/main.py)
+[Application Link](https://share.streamlit.io/gagapito/crimedata_project/main.py)__
 **NOTE:** For better visibility please click on the settings and choose to view the app in wide mode.
 
 This project is a data analysis of crime data for the City of Los Angeles collected from 2020 - Present. 
